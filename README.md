@@ -1,5 +1,7 @@
 # Literature_Reviews_QML
 
+Quantum Computing Overview : A standalone graduate level literature summary of quantum computing fundamentals
+
 QML_BSM : presentation given on quantum machine learning for beyond standard model physics.
 QML_BSM_2 : second part of the presentation given on QML for beyond standard model.
 
